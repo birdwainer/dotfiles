@@ -1,3 +1,6 @@
+[user]
+    name = birdwainer
+    email = birdwainer@gmail.com
 [pull]
   rebase = false
 [core]
